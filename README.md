@@ -5,7 +5,13 @@ and this line is pushed from local drive
 
 instructions:
 run the codes based on the instruction
+<<<<<<< HEAD
+salam
+salam
+salam
+=======
 abercrombie?
 main
 main
 main
+>>>>>>> main
